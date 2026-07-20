@@ -2,7 +2,7 @@
 layout: about
 title: Who am I?
 permalink: /
-subtitle: <a href='https://www.iitb.ac.in/'>Indian Institute of Technology Bombay</a>.<br/>Previously at <a href='https://www.iirs.gov.in/'>Indian Institute of Remote Sensing</a>, Dehradun; <a href='http://www.unipune.ac.in/'>Savitribai Phule Pune University</a>, Pune; Chandernagore College, Chandannagar.
+subtitle: <a href='https://www.iitb.ac.in/'>Indian Institute of Technology Bombay, Mumbai</a><br/>Previously at <a href='https://www.iirs.gov.in/'>Indian Institute of Remote Sensing, Dehradun</a>; <a href='http://www.unipune.ac.in/'>Savitribai Phule Pune University, Pune</a>
 
 profile:
   align: right
@@ -28,6 +28,9 @@ latest_posts:
 ---
 
 I am a researcher, studying the dynamic interactions between the terrestrial ecosystem and climate conditions. 
+
 My focus is to comprehend the widespread and complex patterns in ecosystem response to hydroclimatic dry extremes and elucidate their changing vulnerability from the past to the near future. 
+
 My specific interest is to study how dry events propagate from the atmosphere to the land and reshape carbon and water fluxes across biomes at varying timescales. My research bridges plant ecophysiology, ecosystem-scale carbon cycle, and information-theoretic attribution methods. 
+
 I am well-versed using various geospatial products, including satellite observations, reanalysis datasets, climate model simulations and eddy covariance flux records. 
