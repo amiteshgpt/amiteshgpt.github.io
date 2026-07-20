@@ -8,7 +8,8 @@ middle_name:
 last_name: Gupta
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
+description: >
+  PhD in Resources Engineering. Currently as Research Assistant. Working in climatology, ecohydrology, and remote sensing. 
   personal webpage
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
@@ -46,11 +47,11 @@ external_services:
   github_profile_trophy_url: https://github-profile-trophy.vercel.app
 
 # Social
-scholar_userid: https://scholar.google.co.uk/citations?user=ZPRLJHYAAAAJ&hl=en       # your Google Scholar ID
-orcid_id: https://orcid.org/0000-0002-6664-2351             # your ORCID
-github_username: amiteshgpt      # your GitHub handle
-linkedin_username: amiteshgupta-india    # linkedin.com/in/<this>
-researchgate: https://www.researchgate.net/profile/Amitesh-Gupta-2         # optional
+scholar_userid: ZPRLJHYAAAAJ
+orcid_id: 0000-0002-6664-2351
+github_username: amiteshgpt
+linkedin_username: amiteshgupta-india
+researchgate: Amitesh-Gupta-2
 web_of_science_researcherID: AAC-6668-2019
 
 
@@ -341,8 +342,6 @@ jekyll-archives:
       year: "/blog/:year/"
       tags: "/blog/:type/:name/"
       categories: "/blog/:type/:name/"
-  books:
-    enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
 
 display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
 display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
