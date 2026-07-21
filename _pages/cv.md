@@ -1,19 +1,19 @@
 ---
 layout: page
 permalink: /cv/
-title: Resume / CV
+title: Résumé / CV
 nav: true
 nav_order: 3
 cv_pdf: /assets/pdf/example_pdf.pdf # you can also use external links here
 cv_format: rendercv # options: rendercv, jsonresume
-description: Two curated versions of my curriculum vitae.
+description: Please find the suitable one as per requirement. 
 toc:
   sidebar: left
 ---
-I maintain two versions of my CV, curated for the audience:
+I maintain two versions of my Résumé/CV, curated as:
 
-- **Academic CV** — for postdoctoral positions, faculty roles, and research fellowships. 
-- **Industry Résumé** — for data-science/analytics, climate-services & R&D, and environmental-consulting roles. 
+- **Academic CV** — regarding postdoctoral positions, faculty roles, and research fellowships. 
+- **Industry Résumé** — regarding data-science and analytics, climate-services and related R&D, and environmental-consulting roles. 
 
 <div class="cv-tabs" role="tablist">
   <button class="cv-tab-btn active" onclick="showCvTab(event,'academic')" role="tab">Academic CV</button>
