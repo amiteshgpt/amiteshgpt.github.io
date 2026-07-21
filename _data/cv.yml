@@ -4,7 +4,12 @@ cv:
   email: amiteshgupta@iitb.ac.in, getme.amiteshg@gmail.com
   location: Mumbai, India
   image: ""
-  summary: A researcher, working in geospatial sciences since last 10 years. Efficient in operating with multi-temporal and multi-channel satellite data using big-data pipelines in Python, data curation and classification in Google Earth Engine. Experience in implementing several Machine Learning and Deep Learning algorithms and familiar with data driven timeseries forecasting methods. Collaborative teamwork for several peer-reviewed research publications in various international journals. Mentored research interns for dissertation projects.
+  summary: 
+    - A researcher, working in geospatial sciences since last 10 years. 
+    - Efficient in operating with multi-temporal and multi-channel satellite data using big-data pipelines in Python, data curation and classification in Google Earth Engine. 
+    - Experienced in implementing several Machine Learning and Deep Learning algorithms and familiar with data driven timeseries forecasting methods. 
+    - Collaborative teamwork for project execution and research publications in various international journals. 
+    - Mentored Masters students for internships and dissertation projects.
 
   social_networks:
     - network: X
@@ -14,12 +19,12 @@ cv:
     - network: LinkedIn
       username: example
 
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+  #address:
+  #  street: 2712 Broadway St
+  #  city: San Francisco
+  #  region: California
+  #  postalCode: CA 94115
+  #  countryCode: US
 
   sections:
     Education:
@@ -52,66 +57,83 @@ cv:
         location: Dehradun, India
         start_date: 2020
         end_date: 2021
-        summary: 
-            - Conducted natural resource mapping, geodatabase preparation and potential zone identification for regional planning and development. 
-            - Monitored disaster impact and forest disturbance using satellite-derived indicators, supporting field-validated geospatial assessments.
+        #summary: 
+        #    -  
+        #    - 
         highlights:
-          #- Relativity
-          #- Description 2.
+          - Conducted natural resource mapping, geodatabase preparation and potential zone identification for regional planning and development.
+          - Monitored disaster impact and forest disturbance using satellite-derived indicators, supporting field-validated geospatial assessments.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
+      #- company: California Institute of Technology
+      #  position: Visiting Professor
+      #  location: Pasadena, California, US
+      #  start_date: 1933
+      #  end_date: 1933
+      #  highlights:
+      #    - Description 1.
+      #    - Description 2.
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
+      #- company: Kaiser Wilhelm Institute for Physics
+      #  position: Director
+      #  location: Berlin, Germany
+      #  start_date: 1917
+      #  end_date: 1933
 
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
+      #- company: Karl-Ferdinand University
+      #  position: Professor of Theoretical Physics
+      #  location: Prague, Czechoslovakia
+      #  start_date: 1911
+      #  end_date: 1917
 
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
+      #- company: University of Zurich
+      #  position: Associate Professor of Theoretical Physics
+      #  location: Zurich, Switzerland
+      #  start_date: 1909
+      #  end_date: 1911
 
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+    #Volunteer:
+      #- company: People's Climate March
+      #  position: Lead Organizer
+      #  location: Zurich, Switzerland
+      #  start_date: 2014-04-01
+      #  end_date: 2015-07-01
+      #  summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      #  highlights:
+      #    - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
+      #    - "Men of the year 2014 by Time magazine"
 
     Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - title: Veena Joshi Gold Medal in Geography
+       # authors:
+       #   - "Savitribai Phule Pune University"
+        date: 2019-10-11
+        awarder: Savitribai Phule Pune University
+        #url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
+        summary: Secured the top rank in the entire university during Masters (M.Sc) program. 
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+      #- title: Max Planck Medal
+      #  authors:
+      #    - "German Physical Society"
+      #  date: 2029
+      #  awarder: German Physical Society
+      #  summary: Awarded for outstanding scientific achievement
+    
+    Travel Grants:
+      - title: Early Career Scientists Travel Support (ECSTS) 
+       # authors:
+       #   - "...."
+        date: 2026-01-10
+        awarder: EGU General Assembly Council
+        #url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
+        #summary: Secured the top rank in the entire university during Masters (M.Sc) program. 
+
+      - title: IGARSS travel support
+       # authors:
+       #   - "..."
+        date: 2025-06-11
+        awarder: IEEE
+        #url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
+        #summary: Secured the top rank in the entire university during Masters (M.Sc) program.
 
     Publications:
       - title: Zur Elektrodynamik bewegter Körper
