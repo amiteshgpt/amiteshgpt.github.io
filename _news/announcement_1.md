@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Attended EGU General Assembly 2026 in Vienna, Austria (presentation).
+Delivered a talk in European Geosciences Union (EGU) General Assembly 2025 in Vienna, Austria.
