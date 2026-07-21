@@ -2,11 +2,11 @@
 layout: about
 title: Who am I?
 permalink: /
-subtitle: <a href='https://www.iitb.ac.in/'>Indian Institute of Technology Bombay, Mumbai</a><br/>Previously at <a href='https://www.iirs.gov.in/'>Indian Institute of Remote Sensing, Dehradun</a>; <a href='http://www.unipune.ac.in/'>Savitribai Phule Pune University, Pune</a>
+subtitle: Doctoral candidate at <a href='https://www.iitb.ac.in/'>Indian Institute of Technology Bombay, Mumbai</a><br/>M.Tech from <a href='https://www.iirs.gov.in/'>Indian Institute of Remote Sensing, Dehradun</a><br/>M.Sc from <a href='http://www.unipune.ac.in/'>Savitribai Phule Pune University, Pune</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.jpg.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Currently in Mumbai</p>
