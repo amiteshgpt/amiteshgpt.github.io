@@ -1,0 +1,6 @@
+/* Hide the Ctrl+K shortcut hint next to the search button */
+nav kbd,
+.navbar kbd,
+[class*="search"] kbd {
+  display: none !important;
+}
