@@ -6,6 +6,7 @@ description: Selected peer-reviewed research articles/letters/proceedings. For a
 nav: true
 nav_order: 2
 ---
+{% include no_search_hint.liquid %}
 
 <!-- _pages/publications.md -->
 
