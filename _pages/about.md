@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 {% include no_search_hint.liquid %}
-
+ 
 I am a researcher, studying the dynamic interactions between the terrestrial ecosystem and climate conditions. 
 
 My focus is to comprehend the widespread and complex patterns in ecosystem response to hydroclimatic dry extremes and elucidate their changing vulnerability from the past to the near future. 
