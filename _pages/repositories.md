@@ -6,6 +6,7 @@ description: Scripts for analysis and data records used in Publications Edit the
 nav: true
 nav_order: 4
 ---
+{% include no_search_hint.liquid %}
 
 {% if site.data.repositories.github_users %}
 
