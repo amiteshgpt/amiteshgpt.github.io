@@ -7,10 +7,10 @@ subtitle: Doctoral candidate at <a href='https://www.iitb.ac.in/'>Indian Institu
 profile:
   align: right
   image: prof_pic.jpg.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p> </p>
-    <p>     Konnagar, India</p>
+    <p>                            Konnagar, India</p>
     <p> </p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -28,10 +28,10 @@ latest_posts:
 ---
 {% include no_search_hint.liquid %}
  
-I am a researcher, studying the dynamic interactions between the terrestrial ecosystem and climate conditions. 
+Amitesh is a researcher, studying the dynamic interactions between the terrestrial ecosystem and climate conditions. 
 
-My focus is to comprehend the widespread and complex patterns in ecosystem response to hydroclimatic dry extremes and elucidate their changing vulnerability from the past to the near future. 
+His focus is to comprehend the widespread and complex patterns in ecosystem response to hydroclimatic dry extremes and elucidate their changing vulnerability from the past to the near future. 
 
-My specific interest is to study how dry events propagate from the atmosphere to the land and reshape carbon and water fluxes across biomes at varying timescales. My research bridges plant ecophysiology, ecosystem-scale carbon cycle, and information-theoretic attribution methods. 
+His specific interest is to study how dry events propagate from the atmosphere to the land and reshape carbon and water fluxes across biomes at varying timescales. My research bridges plant ecophysiology, ecosystem-scale carbon cycle, and information-theoretic attribution methods. 
 
-I am well-versed using various geospatial products, including satellite observations, reanalysis datasets, climate model simulations and eddy covariance flux records. 
+He is well-versed using various geospatial products, including satellite observations, reanalysis datasets, climate model simulations and eddy covariance flux records. 
