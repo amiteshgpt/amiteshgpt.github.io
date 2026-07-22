@@ -7,10 +7,10 @@ subtitle: Doctoral candidate at <a href='https://www.iitb.ac.in/'>Indian Institu
 profile:
   align: right
   image: prof_pic.jpg.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p> </p>
-    <p>Konnagar, India</p>
+    <p>     Konnagar, India</p>
     <p> </p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
