@@ -2,7 +2,7 @@
 layout: about
 title: Who am I?
 permalink: /
-subtitle: Doctoral candidate at <a href='https://www.iitb.ac.in/'>Indian Institute of Technology Bombay, Mumbai</a><br/>M.Tech from <a href='https://www.iirs.gov.in/'>Indian Institute of Remote Sensing, Dehradun</a><br/>M.Sc from <a href='http://www.unipune.ac.in/'>Savitribai Phule Pune University, Pune</a>
+subtitle: Doctoral candidate at <a href='https://www.iitb.ac.in/'>Indian Institute of Technology Bombay, Mumbai</a><br/>M.Tech, <a href='https://www.iirs.gov.in/'>Indian Institute of Remote Sensing, Dehradun</a><br/>M.Sc, <a href='http://www.unipune.ac.in/'>Savitribai Phule Pune University, Pune</a>
 
 profile:
   align: right
@@ -10,7 +10,7 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: >
     <p> </p>
-    <p>                            Konnagar, India</p>
+    <p> </p>
     <p> </p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
