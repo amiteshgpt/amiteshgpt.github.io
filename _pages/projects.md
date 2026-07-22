@@ -8,6 +8,7 @@ nav_order: 1
 display_categories: [Climate-Vegetation Interation, Remote Sensing & GIS]
 horizontal: false
 ---
+{% include no_search_hint.liquid %}
 
 <!-- pages/projects.md -->
 <div class="projects">
