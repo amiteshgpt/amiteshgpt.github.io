@@ -26,6 +26,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+{% include no_search_hint.liquid %}
 
 I am a researcher, studying the dynamic interactions between the terrestrial ecosystem and climate conditions. 
 
