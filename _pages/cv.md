@@ -11,7 +11,7 @@ toc:
   sidebar: left
 ---
 {% include no_search_hint.liquid %}
-
+ 
 I maintain two versions of my Résumé/CV, curated as:
 
 - **Academic CV** — regarding postdoctoral positions, faculty roles, and research fellowships. 
