@@ -1,6 +1,10 @@
-/* Hide the Ctrl+K shortcut hint next to the search button */
-nav kbd,
-.navbar kbd,
-[class*="search"] kbd {
-  display: none !important;
+/* Hide the "ctrl k" text hint in the search button; keep the magnifying-glass icon */
+#search-toggle .nav-link {
+  font-size: 0 !important;
+  gap: 0 !important;
+}
+
+#search-toggle .nav-link i,
+#search-toggle .nav-link svg {
+  font-size: 1rem !important;
 }
