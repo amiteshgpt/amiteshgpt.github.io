@@ -2,10 +2,10 @@
 layout: page
 title: Research
 permalink: /Research/
-description: Interests are Ecohydrology, Biogeosciences and Climate Extremes.
+description: Ecohydrology, Biogeosciences, Climate Extremes.
 nav: true
 nav_order: 1
-display_categories: [Climate-Vegetation Interation, Remote Sensing & GIS]
+display_categories: [Climate-Vegetation Interation, Remote Sensing & GIS Applications]
 horizontal: false
 ---
 {% include no_search_hint.liquid %}
