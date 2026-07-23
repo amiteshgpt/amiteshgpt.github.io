@@ -7,20 +7,14 @@ cv:
   current_city: Mumbai, India
   image: ""
   summary: |
-  <ul>
-    <li>PhD researcher studying the dynamic interactions between the terrestrial ecosystem and climate conditions.</li>
-    #<li>Current research focuses on plant ecophysiology and ecosystem-scale interactions within the carbon and water cycles.</li>
-    <li>Aim is to understand the widespread and complex patterns in ecosystem response to hydroclimatic dry extremes and elucidate their changing vulnerability.</li>
-    <li>Explores plant–soil–atmosphere processes leveraging eddy-covariance flux data and examines physiological and structural changes induced by extreme dryness in the land and atmosphere integrating satellite observations, reanalysis datasets, and climate-model simulations.</li>
-    <li>Motivated to simulate Earth's carbon and nitrogen cycles using an optimality-based dynamic global vegetation model to understand impacts of extreme perturbations in the energy and water cycles.</li>
-  </ul>
-  #summary:
-  #  - PhD researcher studying the dynamic interactions between the terrestrial ecosystem and climate conditions.
-  #  - Focus is to comprehend the widespread and complex patterns in ecosystem response to hydroclimatic dry extremes and elucidate their changing vulnerability from the past to the near future.
-  #  - Explores plant–soil–atmosphere processes using eddy-covariance flux data and examines physiological and structural changes induced by rapid, instantaneous, or long-duration stress in the land and atmosphere using satellite observations, reanalysis datasets, and climate-model simulations.
-  #  - Research bridges plant ecophysiology, ecosystem-scale carbon cycle, and information-theoretic attribution methods.
-  #  - Motivated to simulate Earth's carbon and nitrogen cycles using an optimality-based dynamic global vegetation model to understand the impacts of extreme perturbations in the energy and water cycles driven by changes in the climate system.
+    <ul>
+      <li>PhD researcher studying the dynamic interactions between the terrestrial ecosystem and climate conditions.</li>
+      <li>Aim is to understand the widespread and complex patterns in ecosystem response to hydroclimatic dry extremes and elucidate their changing vulnerability.</li>
+      <li>Explores plant–soil–atmosphere processes leveraging eddy-covariance flux data and examines physiological and structural changes induced by extreme dryness in the land and atmosphere integrating satellite observations, reanalysis datasets, and climate-model simulations.</li>
+      <li>Motivated to simulate Earth's carbon and nitrogen cycles using an optimality-based dynamic global vegetation model to understand impacts of extreme perturbations in the energy and water cycles.</li>
+    </ul>
 
+  
   sections:
 
     Education:
@@ -56,16 +50,10 @@ cv:
         start_date: 2021
         end_date: 2026
         highlights:
-          - Courses attended: Principles of Remote Sensing, Microwave Remote Sensing: Principles and Applications, Digital Image Processing of Remotely Sensed Data, Remote Sensing of Vegetation, Terrestrial Ecosystem Ecology, Eco-hydro-Climatology, Monsoons and Tropical Climate, Introduction to Climate Science, Atmosphere and Climate Change, Sustainability Principles and Practices, Machine Learning for Remote Sensing, Geospatial Predictive Modelling. 
-          - Assisted in Teaching Courses: Remote Sensing of Surface Hydrology, Data Analysis Methods for Geospatial Applications
-          - PhD Coordinator (Department) during 2023-24
-          - Married Research Scholars’ Nominee (Institute) during 2024-25
-          - PhD Placement Representative (Institute) during 2025-26
-          - Visiting Indiana University, Indianapolis and Texas A&M University, College Station in US during 2026 for Research Collaborations
-    #      - "Designed and executed pipelines for simultaneous processing of multi-source datasets — satellite observations (MODIS, AVHRR, MSWEP, SMAP, EnMAP, ECOSTRESS, AMSR-E/2, OCO-2/3, Landsat-5/7/8/9, Sentinel-1/2/5p), reanalysis (GLEAM, ERA5, GLDAS), climate-model simulations (CMIP6), and ground observations (FLUXNET, SAPFLUXNET) — to characterise global-scale ecosystem–climate interactions at climatological, seasonal, sub-seasonal, weekly, and daily timescales."
-    #      - "Built statistical models to infer causal interactions among ecosystem productivity, water-use efficiency, canopy water content, biomass, and the land–atmosphere state during the evolution of extreme dry events using Conditional Transfer Entropy, Multivariate Granger Causality, and PCMCI."
-    #      - "Operated multi-source datasets under parallel processing, resolving schema and memory-management issues in production-scale pipelines comparable to the demands of operational environmental monitoring."
-    #      - "Published three peer-reviewed articles from doctoral thesis in Q1 journals (Earth's Future, Geophysical Research Letters, Environmental Research Letters); presented at IGARSS 2025 and EGU 2025 & 2026."
+          - "Courses Attended: Principles of Remote Sensing, Digital Image Processing of Remotely Sensed Data, <br/>Microwave Remote Sensing: Principles and Applications, Remote Sensing of Vegetation, <br/>Terrestrial Ecosystem Ecology, Eco-hydro-Climatology, Monsoons and Tropical Climate, <br/>Introduction to Climate Science, Atmosphere and Climate Change, Sustainability Principles and Practices, <br/>Machine Learning for Remote Sensing, Geospatial Predictive Modelling."
+          - "Teaching Courses Assisted: Remote Sensing of Surface Hydrology, Data Analysis Methods for Geospatial Applications"
+          - "Position of Responsibilities: PhD Coordinator (Department, 2023-24); <br/>Married Research Scholars' Nominee (Institute, 2024-25); PhD Placement Representative (Institute, 2025-26)"
+          - "Research Visits: Indiana University, Indianapolis, Indiana, US; <br/>Texas A&M University, College Station, Texas, US"
       - company: GIS Cell
         position: GIS Analyst
         location: Dehradun, India
@@ -197,7 +185,7 @@ cv:
         publisher: "Spatial Information Research, 25(6)"
         releaseDate: 2017
 
-    Awards & Travel Grants:
+    "Awards & Travel Grants":
       - title: Veena Joshi Gold Medal in Geography
         date: 2019-10-11
         awarder: Savitribai Phule Pune University
@@ -233,19 +221,22 @@ cv:
       - name: Programming
         level: 
         icon: fa-solid fa-code
-        keywords: "Python (primary), R (intermediate), Julia; procedural pipelines and multi-core parallelisation (Dask, Delayed); object-oriented programming (Xarray, Rasterio)"
+        keywords: "Python (primary), R (intermediate), Julia (intermediate)"
+        highlights:
+          - procedural pipelines and multi-core parallelisation (Dask, Delayed)
+          - object-oriented programming (Xarray, Rasterio)
       - name: Python Libraries
         level: 
         icon: fa-brands fa-python
         keywords: "Xarray, Rasterio, Dask, PyArrow, SciPy, NumPy, Statsmodels, Scikit-learn, Pandas, GeoPandas, Optuna, Keras, PyTorch, shutil, gc, os, json"
-      - name: Modelling Frameworks
+      - name: AI/ML Modelling
         level: 
         icon: fa-solid fa-microchip
-        keywords: "Machine Learning (Random Forest, XGBoost, SVM, ANN), Deep Learning, Time-series forecasting (LSTM, ARIMA, GARCH), Numerical Weather Prediction (WRF)"
+        keywords: "Machine Learning (Random Forest, XGBoost, SVM, ANN), Explanable AI (SHAP, Integrated gradients, DeepLIFT), Time-series forecasting (LSTM, ARIMA, GARCH), Numerical Weather Prediction (WRF)"
       - name: Statistical Methods
         level: 
         icon: fa-solid fa-chart-line
-        keywords: "Information theory (normalised conditional transfer Shannon entropy; Rényi and KSG estimators of conditional mutual information); Partial Information Decomposition (BROJA-PID); KDE-based non-linear partial correlation; Copula transformation; Average Marginal Effect; multivariate linear and non-linear (MLP-based) Granger causality; PCMCI"
+        keywords: "Information theory (normalised conditional transfer Shannon entropy; Rényi estimators of conditional mutual information); Partial Information Decomposition (BROJA-PID); KDE-based non-linear partial correlation; Copula transformation; Average Marginal Effect; multivariate linear and non-linear (MLP-based) Granger causality; PCMCI"
       - name: Geospatial Software
         level: 
         icon: fa-solid fa-globe
@@ -260,11 +251,6 @@ cv:
         keywords: "ERA5, GLEAM, CMIP6, GPCC, CRU, HadCRUT, MSWEP, GISTEMP, IMERG, PERSIANN-CCS, GLDAS"
 
 
-    Review Experience:
-      - name: Recognised Reviewer
-        icon: fa-solid fa-file-lines
-        summary: "Reviewed 90+ manuscripts across 30+ journals, including Nature Communications, Geophysical Research Letters, AGU Advances, Earth's Future, Journal of Environmental Management, Journal of Arid Environments, Remote Sensing Applications: Society and Environment, International Journal of Disaster Risk Reduction, Hydrological Sciences, Science of the Total Environment, Water, Remote Sensing, and Earth Systems and Environment."
-
     Languages:
       - name: English
         summary: "Professional / Fluent"
@@ -275,23 +261,23 @@ cv:
 
     References:
       - name: Prof. Lixin Wang, Indiana University, Indianapolis, Indiana, US
-        icon: fa-solid #fa-lapto
+        icon: fa-solid fa-lapto
         email: lxwang@iu.edu
       - name: Prof. Ashok Mishra, Texas A&M University, College Station, Texas, US
-        icon: fa-solid #fa-lapto
+        icon: fa-solid fa-lapto
         email: ashok_mishra@tamu.edu
       - name: Prof. Karthikeyan Lanka, Indian Institute of Technology Bombay, Mumbai, Maharashtra, India
-        icon: fa-solid #fa-thumbtack
+        icon: fa-solid fa-thumbtack
         email: karthikl@iitb.ac.in
       - name: Prof. Avik Bhattacharya, Indian Institute of Technology Bombay, Mumbai, Maharashtra, India
-        icon: fa-solid #fa-thumbtack
+        icon: fa-solid fa-thumbtack
         email: avikbhat@iitb.ac.in
       - name: Prof. Biplab Banerjee, Indian Institute of Technology Bombay, Mumbai, Maharashtra, India
-        icon: fa-solid #fa-thumbtack
+        icon: fa-solid fa-thumbtack
         email: bbanerjee@iitb.ac.in
       - name: Prof. Jaideep Joshi, Indian Institute of Technology Bombay, Mumbai, Maharashtra, India
-        icon: fa-solid #fa-thumbtack
+        icon: fa-solid fa-thumbtack
         email: jaideep.joshi@iitb.ac.in
       - name: Dr. Arijit Roy (Scientist G), Indian Institute of Remote Sensing, Dehradun, Uttarakhand, India
-        icon: fa-solid #fa-thumbtack
+        icon: fa-solid fa-thumbtack
         email: arijitroy@iirsddn.ac.in
