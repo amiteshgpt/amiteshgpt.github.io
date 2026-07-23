@@ -3,27 +3,24 @@
     "name": "Amitesh Gupta",
     "label": "Doctoral candidate",
     "image": "",
-    "email": "einstein@example.com",
-    "phone": "(912) 123-4567",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "amiteshgupta@iitb.ac.in",
+    "summary": “A researcher, working in geospatial sciences since last 10 years.”, “Efficient in operating with multi-temporal and multi-channel satellite data using big-data pipelines in Python, data curation and classification in Google Earth Engine.”, “Experienced in implementing several Machine Learning and Deep Learning algorithms and familiar with data driven timeseries forecasting methods.”, “Collaborative teamwork for project execution and research publications in various international journals.”, “Mentored Masters students for internships and dissertation projects.”,
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "residence": "Konnagar",
+      "currentCity": "Mumbai",
+      "country": "India",
     },
     "profiles": []
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Princeton University, NJ",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity", "Description 2."]
+      "name": "GIS Cell",
+      "position": "GIS Analyst",
+      "location": "Dehradun",
+      "startDate": "2020-10-01",
+      "endDate": "2021-07-20",
+      "summary": "Managing GIS operations and database for govertment infrastructure",
+      "highlights": ["Conducted natural resource mapping, geodatabase preparation and potential zone identification for regional planning and development.", "Monitored disaster impact and forest disturbance using satellite-derived indicators, supporting field-validated geospatial assessments."]
     },
     {
       "name": "California Institute of Technology",
