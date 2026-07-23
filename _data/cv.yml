@@ -219,7 +219,7 @@ cv:
       - name: Statistical Methods
         level: 
         icon: fa-solid fa-chart-line
-        keywords: "<br/>Information theory - normalised conditional transfer Shannon entropy, Rényi estimators of conditional mutual information); Partial Information Decomposition (BROJA-PID); <br/>KDE-based non-linear partial correlation; Copula transformation; Average Marginal Effect; <br/>multivariate linear and non-linear (MLP-based) Granger causality; PCMCI"
+        keywords: "<br/>Normalised Conditional Transfer Entropy (Shannon), Rényi Conditional Mutual Information<br/>Partial Information Decomposition (BROJA-PID), Bivariate Copula<br/>Non-linear (KDE) Partial Correlation, Average Marginal Effect<br/>Multivariate Linear & Non-linear (MLP-based) Granger Causality, PCMCI"
       - name: Geospatial Software
         level: 
         icon: fa-solid fa-globe
@@ -243,17 +243,17 @@ cv:
         summary: "Native"
 
     References:
-      - name: Prof. Lixin Wang, Indiana University, Indianapolis, Indiana, US
+      - name: Prof. Lixin Wang, Indiana University, Indianapolis, US
         email: lxwang@iu.edu
-      - name: Prof. Ashok Mishra, Texas A&M University, College Station, Texas, US
+      - name: Prof. Ashok Mishra, Texas A&M University, College Station, US
         email: ashok_mishra@tamu.edu
-      - name: Prof. Karthikeyan Lanka, Indian Institute of Technology Bombay, Mumbai, Maharashtra, India
+      - name: Prof. Karthikeyan Lanka, Indian Institute of Technology Bombay, Mumbai, India
         email: karthikl@iitb.ac.in
-      - name: Prof. Avik Bhattacharya, Indian Institute of Technology Bombay, Mumbai, Maharashtra, India
+      - name: Prof. Avik Bhattacharya, Indian Institute of Technology Bombay, Mumbai, India
         email: avikbhat@iitb.ac.in
-      - name: Prof. Biplab Banerjee, Indian Institute of Technology Bombay, Mumbai, Maharashtra, India
+      - name: Prof. Biplab Banerjee, Indian Institute of Technology Bombay, Mumbai, India
         email: bbanerjee@iitb.ac.in
-      - name: Prof. Jaideep Joshi, Indian Institute of Technology Bombay, Mumbai, Maharashtra, India
+      - name: Prof. Jaideep Joshi, Indian Institute of Technology Bombay, Mumbai, India
         email: jaideep.joshi@iitb.ac.in
-      - name: Dr. Arijit Roy (Scientist G), Indian Institute of Remote Sensing, Dehradun, Uttarakhand, India
+      - name: Dr. Arijit Roy (Scientist G), Indian Institute of Remote Sensing, Dehradun, India
         email: arijitroy@iirsddn.ac.in
