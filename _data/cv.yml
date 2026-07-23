@@ -1,16 +1,25 @@
 cv:
   name: Amitesh Gupta
-  label: "Doctoral Candidate | Ecosystem–Climate Interactions | 6+ years in Remote Sensing Applications in Land-Water-Air Monitoring"
+  #label: "Doctoral Candidate | Ecosystem–Climate Interactions | 6+ years in Remote Sensing Applications in Land-Water-Air Monitoring"
   email: amiteshgupta@iitb.ac.in
+  label: "Doctoral Candidate, IIT Bombay<br/>Ecosystem–Climate Interactions<br/>Remote Sensing of Land–Water–Atmosphere"
   residence: Konnagar, West Bengal, India
   current_city: Mumbai, India
   image: ""
-  summary:
-    - PhD researcher studying the dynamic interactions between the terrestrial ecosystem and climate conditions.
-    - Focus is to comprehend the widespread and complex patterns in ecosystem response to hydroclimatic dry extremes and elucidate their changing vulnerability from the past to the near future.
-    - Explores plant–soil–atmosphere processes using eddy-covariance flux data and examines physiological and structural changes induced by rapid, instantaneous, or long-duration stress in the land and atmosphere using satellite observations, reanalysis datasets, and climate-model simulations.
-    - Research bridges plant ecophysiology, ecosystem-scale carbon cycle, and information-theoretic attribution methods.
-    - Motivated to simulate Earth's carbon and nitrogen cycles using an optimality-based dynamic global vegetation model to understand the impacts of extreme perturbations in the energy and water cycles driven by changes in the climate system.
+  summary: |
+  <ul>
+    <li>PhD researcher studying the dynamic interactions between the terrestrial ecosystem and climate conditions.</li>
+    #<li>Current research focuses on plant ecophysiology and ecosystem-scale interactions within the carbon and water cycles.</li>
+    <li>Aim is to understand the widespread and complex patterns in ecosystem response to hydroclimatic dry extremes and elucidate their changing vulnerability.</li>
+    <li>Explores plant–soil–atmosphere processes leveraging eddy-covariance flux data and examines physiological and structural changes induced by extreme dryness in the land and atmosphere integrating satellite observations, reanalysis datasets, and climate-model simulations.</li>
+    <li>Motivated to simulate Earth's carbon and nitrogen cycles using an optimality-based dynamic global vegetation model to understand impacts of extreme perturbations in the energy and water cycles.</li>
+  </ul>
+  #summary:
+  #  - PhD researcher studying the dynamic interactions between the terrestrial ecosystem and climate conditions.
+  #  - Focus is to comprehend the widespread and complex patterns in ecosystem response to hydroclimatic dry extremes and elucidate their changing vulnerability from the past to the near future.
+  #  - Explores plant–soil–atmosphere processes using eddy-covariance flux data and examines physiological and structural changes induced by rapid, instantaneous, or long-duration stress in the land and atmosphere using satellite observations, reanalysis datasets, and climate-model simulations.
+  #  - Research bridges plant ecophysiology, ecosystem-scale carbon cycle, and information-theoretic attribution methods.
+  #  - Motivated to simulate Earth's carbon and nitrogen cycles using an optimality-based dynamic global vegetation model to understand the impacts of extreme perturbations in the energy and water cycles driven by changes in the climate system.
 
   sections:
 
@@ -42,15 +51,21 @@ cv:
 
     Experience:
       - company: Indian Institute of Technology Bombay
-        position: Doctoral Researcher — Terrestrial Ecosystem–Climate Interactions
+        position: Teaching Assistant | Researcher 
         location: Mumbai, India
         start_date: 2021
         end_date: 2026
         highlights:
-          - "Designed and executed pipelines for simultaneous processing of multi-source datasets — satellite observations (MODIS, AVHRR, MSWEP, SMAP, EnMAP, ECOSTRESS, AMSR-E/2, OCO-2/3, Landsat-5/7/8/9, Sentinel-1/2/5p), reanalysis (GLEAM, ERA5, GLDAS), climate-model simulations (CMIP6), and ground observations (FLUXNET, SAPFLUXNET) — to characterise global-scale ecosystem–climate interactions at climatological, seasonal, sub-seasonal, weekly, and daily timescales."
-          - "Built statistical models to infer causal interactions among ecosystem productivity, water-use efficiency, canopy water content, biomass, and the land–atmosphere state during the evolution of extreme dry events using Conditional Transfer Entropy, Multivariate Granger Causality, and PCMCI."
-          - "Operated multi-source datasets under parallel processing, resolving schema and memory-management issues in production-scale pipelines comparable to the demands of operational environmental monitoring."
-          - "Published three peer-reviewed articles from doctoral thesis in Q1 journals (Earth's Future, Geophysical Research Letters, Environmental Research Letters); presented at IGARSS 2025 and EGU 2025 & 2026."
+          - Courses attended: Principles of Remote Sensing, Microwave Remote Sensing: Principles and Applications, Digital Image Processing of Remotely Sensed Data, Remote Sensing of Vegetation, Terrestrial Ecosystem Ecology, Eco-hydro-Climatology, Monsoons and Tropical Climate, Introduction to Climate Science, Atmosphere and Climate Change, Sustainability Principles and Practices, Machine Learning for Remote Sensing, Geospatial Predictive Modelling. 
+          - Assisted in Teaching Courses: Remote Sensing of Surface Hydrology, Data Analysis Methods for Geospatial Applications
+          - PhD Coordinator (Department) during 2023-24
+          - Married Research Scholars’ Nominee (Institute) during 2024-25
+          - PhD Placement Representative (Institute) during 2025-26
+          - Visiting Indiana University, Indianapolis and Texas A&M University, College Station in US during 2026 for Research Collaborations
+    #      - "Designed and executed pipelines for simultaneous processing of multi-source datasets — satellite observations (MODIS, AVHRR, MSWEP, SMAP, EnMAP, ECOSTRESS, AMSR-E/2, OCO-2/3, Landsat-5/7/8/9, Sentinel-1/2/5p), reanalysis (GLEAM, ERA5, GLDAS), climate-model simulations (CMIP6), and ground observations (FLUXNET, SAPFLUXNET) — to characterise global-scale ecosystem–climate interactions at climatological, seasonal, sub-seasonal, weekly, and daily timescales."
+    #      - "Built statistical models to infer causal interactions among ecosystem productivity, water-use efficiency, canopy water content, biomass, and the land–atmosphere state during the evolution of extreme dry events using Conditional Transfer Entropy, Multivariate Granger Causality, and PCMCI."
+    #      - "Operated multi-source datasets under parallel processing, resolving schema and memory-management issues in production-scale pipelines comparable to the demands of operational environmental monitoring."
+    #      - "Published three peer-reviewed articles from doctoral thesis in Q1 journals (Earth's Future, Geophysical Research Letters, Environmental Research Letters); presented at IGARSS 2025 and EGU 2025 & 2026."
       - company: GIS Cell
         position: GIS Analyst
         location: Dehradun, India
@@ -182,13 +197,11 @@ cv:
         publisher: "Spatial Information Research, 25(6)"
         releaseDate: 2017
 
-    Awards:
+    Awards & Travel Grants:
       - title: Veena Joshi Gold Medal in Geography
         date: 2019-10-11
         awarder: Savitribai Phule Pune University
-        summary: Secured the top rank in the entire university during the Masters (M.Sc) programme.
-
-    Travel Grants:
+        summary: Secured the top rank in the entire university in the M.Sc programme.
       - title: Early-Career Scientists Travel Support (ECSTS)
         date: 2026-01-10
         awarder: EGU General Assembly Council
@@ -196,59 +209,56 @@ cv:
       - title: IGARSS Travel Grant
         date: 2025-06-11
         awarder: IEEE Geoscience and Remote Sensing Society
-        summary: Awarded for paper presentation at IGARSS 2025, Brisbane, Australia.
+        summary: Awarded for oral presentation at IGARSS 2025, Brisbane, Australia.
 
-    Research Visits:
-      - name: Indiana University, Indianapolis, USA
-        date: 2026
-        summary: Research collaborations (terrestrial ecosystem–climate interactions).
-      - name: Texas A&M University, Texas, USA
-        date: 2026
-        summary: Research collaborations (compound event dynamics).
 
-    Skills:
-      - name: Programming
-        level: Advanced
-        icon: fa-solid fa-code
-        keywords: "Python (primary), R (intermediate), Julia; procedural pipelines and multi-core parallelisation (Dask, Delayed); object-oriented programming (Xarray, Rasterio)"
-      - name: Python Libraries
-        level: Advanced
-        icon: fa-brands fa-python
-        keywords: "Xarray, Rasterio, Dask, PyArrow, SciPy, NumPy, Statsmodels, Scikit-learn, Pandas, GeoPandas, Optuna, Keras, PyTorch, shutil, gc, os, json"
-      - name: Modelling Frameworks
-        level: Advanced
-        icon: fa-solid fa-microchip
-        keywords: "Machine Learning (Random Forest, XGBoost, SVM, ANN), Deep Learning, Time-series forecasting (LSTM, ARIMA, GARCH), Numerical Weather Prediction (WRF)"
-      - name: Statistical Methods
-        level: Advanced
-        icon: fa-solid fa-chart-line
-        keywords: "Information theory (normalised conditional transfer Shannon entropy; Rényi and KSG estimators of conditional mutual information); Partial Information Decomposition (BROJA-PID); KDE-based non-linear partial correlation; Copula transformation; Average Marginal Effect; multivariate linear and non-linear (MLP-based) Granger causality; PCMCI"
-      - name: Geospatial Software
-        level: Advanced
-        icon: fa-solid fa-globe
-        keywords: "Google Earth Engine, QGIS, ArcGIS, SNAP, PolSARPro, GrADS, Panoply, ERDAS Imagine, ENVI"
-      - name: Satellite Datasets
-        level: Advanced
-        icon: fa-solid fa-satellite
-        keywords: "MODIS, VIIRS, AVHRR, AMSR-E/2, SMAP, OCO-2/3, ECOSTRESS, Landsat-5/7/8/9, Sentinel-1/2/5p, EnMAP, OMI, AIRS"
-      - name: Climate Datasets
-        level: Advanced
-        icon: fa-solid fa-cloud
-        keywords: "ERA5, GLEAM, CMIP6, GPCC, CRU, HadCRUT, MSWEP, GISTEMP, IMERG, PERSIANN-CCS, GLDAS"
 
-    Research Interests:
-      - name: Carbon Cycling
+    Interests:
+      - name: Carbon and Nitrogen Cycles
         icon: fa-solid fa-leaf
-        keywords: "Ecosystem productivity (GPP, NEP); energy partitioning (T/ET); coupling among carbon–water–energy fluxes under drought stress; ecosystem resistance and resilience; remote-sensing-based vegetation descriptors (GPP, LAI, SIF, VOD, NIRv)"
+        keywords: "Ecosystem productivity (GPP, NEP); energy partitioning (T/ET); coupling among carbon–water–energy fluxes; ecosystem resistance and resilience; remote-sensing-based vegetation descriptors (GPP, LAI, SIF, VOD, NIRv)"
       - name: Hydro-climatology
         icon: fa-solid fa-droplet
         keywords: "Drought propagation dynamics; compound drought and heatwaves; flash drought; wildfires; long-term climate variability using reanalysis and climate-model simulations"
       - name: Plant Ecophysiology
         icon: fa-solid fa-seedling
-        keywords: "Abiotic stress (combined or individual hot/dry conditions); legacy effects; phenological shifts (early fluorescence, leaf senescence); carbon allocation and water uptake; stomatal conductance theory (FvCB)"
+        keywords: "Abiotic stress; legacy effects; phenological shifts; carbon allocation and water uptake; stomatal conductance theory (FvCB)"
       - name: Statistical Attribution
         icon: fa-solid fa-diagram-project
         keywords: "Information-theoretic causality; Partial Information Decomposition; multivariate Granger causality; PCMCI"
+        
+
+
+    Skills:
+      - name: Programming
+        level: 
+        icon: fa-solid fa-code
+        keywords: "Python (primary), R (intermediate), Julia; procedural pipelines and multi-core parallelisation (Dask, Delayed); object-oriented programming (Xarray, Rasterio)"
+      - name: Python Libraries
+        level: 
+        icon: fa-brands fa-python
+        keywords: "Xarray, Rasterio, Dask, PyArrow, SciPy, NumPy, Statsmodels, Scikit-learn, Pandas, GeoPandas, Optuna, Keras, PyTorch, shutil, gc, os, json"
+      - name: Modelling Frameworks
+        level: 
+        icon: fa-solid fa-microchip
+        keywords: "Machine Learning (Random Forest, XGBoost, SVM, ANN), Deep Learning, Time-series forecasting (LSTM, ARIMA, GARCH), Numerical Weather Prediction (WRF)"
+      - name: Statistical Methods
+        level: 
+        icon: fa-solid fa-chart-line
+        keywords: "Information theory (normalised conditional transfer Shannon entropy; Rényi and KSG estimators of conditional mutual information); Partial Information Decomposition (BROJA-PID); KDE-based non-linear partial correlation; Copula transformation; Average Marginal Effect; multivariate linear and non-linear (MLP-based) Granger causality; PCMCI"
+      - name: Geospatial Software
+        level: 
+        icon: fa-solid fa-globe
+        keywords: "Google Earth Engine, QGIS, ArcGIS, SNAP, PolSARPro, GrADS, Panoply, ERDAS Imagine, ENVI"
+      - name: Satellite Datasets
+        level: 
+        icon: fa-solid fa-satellite
+        keywords: "MODIS, VIIRS, AVHRR, AMSR-E/2, SMAP, OCO-2/3, ECOSTRESS, Landsat-5/7/8/9, Sentinel-1/2/5p, EnMAP, OMI, AIRS"
+      - name: Climate Datasets
+        level: 
+        icon: fa-solid fa-cloud
+        keywords: "ERA5, GLEAM, CMIP6, GPCC, CRU, HadCRUT, MSWEP, GISTEMP, IMERG, PERSIANN-CCS, GLDAS"
+
 
     Review Experience:
       - name: Recognised Reviewer
@@ -265,23 +275,23 @@ cv:
 
     References:
       - name: Prof. Lixin Wang, Indiana University, Indianapolis, Indiana, US
-        icon: fa-solid fa-lapto
+        icon: fa-solid #fa-lapto
         email: lxwang@iu.edu
       - name: Prof. Ashok Mishra, Texas A&M University, College Station, Texas, US
-        icon: fa-solid fa-lapto
+        icon: fa-solid #fa-lapto
         email: ashok_mishra@tamu.edu
-      - name: Prof. Karthikeyan Lanka
-        icon: fa-solid fa-thumbtack
+      - name: Prof. Karthikeyan Lanka, Indian Institute of Technology Bombay, Mumbai, Maharashtra, India
+        icon: fa-solid #fa-thumbtack
         email: karthikl@iitb.ac.in
-      - name: Prof. Avik Bhattacharya
-        icon: fa-solid fa-thumbtack
+      - name: Prof. Avik Bhattacharya, Indian Institute of Technology Bombay, Mumbai, Maharashtra, India
+        icon: fa-solid #fa-thumbtack
         email: avikbhat@iitb.ac.in
-      - name: Prof. Biplab Banerjee
-        icon: fa-solid fa-thumbtack
+      - name: Prof. Biplab Banerjee, Indian Institute of Technology Bombay, Mumbai, Maharashtra, India
+        icon: fa-solid #fa-thumbtack
         email: bbanerjee@iitb.ac.in
-      - name: Prof. Jaideep Joshi
-        icon: fa-solid fa-thumbtack
+      - name: Prof. Jaideep Joshi, Indian Institute of Technology Bombay, Mumbai, Maharashtra, India
+        icon: fa-solid #fa-thumbtack
         email: jaideep.joshi@iitb.ac.in
-      - name: Dr. Arijit Roy (Scientist G)
-        icon: fa-solid fa-thumbtack
+      - name: Dr. Arijit Roy (Scientist G), Indian Institute of Remote Sensing, Dehradun, Uttarakhand, India
+        icon: fa-solid #fa-thumbtack
         email: arijitroy@iirsddn.ac.in
