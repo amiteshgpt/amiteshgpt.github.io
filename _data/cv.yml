@@ -1,6 +1,6 @@
 cv:
   name: Amitesh Gupta
-  label: "Doctoral Candidate | Ecosystem–Climate Interactions | IIT Bombay"
+  label: "Doctoral Candidate | Ecosystem–Climate Interactions | 6+ years in Remote Sensing Applications in Land-Water-Air Monitoring"
   email: amiteshgupta@iitb.ac.in
   residence: Konnagar, West Bengal, India
   current_city: Mumbai, India
@@ -15,21 +15,15 @@ cv:
   sections:
 
     Education:
-      - institution: Indian Institute of Technology Bombay
+      - institution: Centre for Studies in Resource Engineering (CSRE), Indian Institute of Technology Bombay (IITB), India
         location: Mumbai, India
-        area: Ecosystem–Climate Interactions (Engineering Sciences), Centre for Studies in Resource Engineering (CSRE)
+        area: Ecohydrology - Terrestrial Ecosystem-Climate Interactions | Hydroclimatology - Drought Propagation Dynamics 
         studyType: PhD
         start_date: 2021
         end_date: 2026
         highlights:
-          - "Thesis: Terrestrial ecosystem response to the propagation of extreme dry events from the atmosphere to the land surface."
-          - Causal influence of initial land–atmosphere and meteorological drought on propagated soil-moisture droughts.
-          - Contrasting response of terrestrial ecosystem based on distinct remote-sensing descriptors during concurrent (co-occurrence with meteorological drought) and propagated (from meteorological drought) soil-moisture droughts.
-          - Relative influence of soil moisture and vapour-pressure deficit on vegetation water content, ecosystem productivity, canopy greenness, and biomass during different stages of flash-drought evolution.
-          - Attribution of low soil moisture and high air temperature to terrestrial ecosystem physiology and energy partition during resistance and recovery from compound drought–heat extremes.
-          - Changes in the influence of soil moisture and vapour-pressure deficit on ecosystem productivity and water-use efficiency with altering concurrent dryness in the land–atmosphere.
-          - Drivers of net terrestrial ecosystem productivity during varying intensity of compound land–atmosphere dryness.
-      - institution: Indian Institute of Remote Sensing (IIRS)
+          - "Thesis: Terrestrial Ecosystem Responses to the Propagation of Extreme Dryness Across the Land-Atmosphere Continuum."
+      - institution: Indian Institute of Remote Sensing (IIRS), Dehradun, India
         location: Dehradun, India
         area: Remote Sensing and GIS (Atmospheric Science specialisation)
         studyType: M.Tech
@@ -37,14 +31,14 @@ cv:
         end_date: 2019
         highlights:
           - "Dissertation: Spatiotemporal variability in satellite-derived particulate-matter concentration in India."
-      - institution: Savitribai Phule Pune University
+      - institution: Savitribai Phule Pune University, Pune, India
         location: Pune, India
         area: Geography (Climatology specialisation)
         studyType: M.Sc
         start_date: 2015
         end_date: 2017
         highlights:
-          - "Gold Medallist. Dissertation: Temperature trend analysis over major Indian cities."
+          - "Dissertation: Temperature trend analysis over major Indian cities."
 
     Experience:
       - company: Indian Institute of Technology Bombay
@@ -97,8 +91,7 @@ cv:
         authors:
           - Khan M. A.
           - Gupta A.
-          - Sharma P.
-          - Roy A.
+
         publisher: "Environment, Development and Sustainability, 28(4), 8681–8715"
         releaseDate: 2026
       - title: Impact of climate trends on ecosystem productivity
@@ -119,7 +112,7 @@ cv:
         authors:
           - Gupta A.
           - Roy A.
-          - Chauhan P.
+
         publisher: "Arabian Journal of Geosciences, 16(7), 433"
         releaseDate: 2023
       - title: Multi-criteria decision-based geospatial mapping of flood susceptibility and temporal hydro-geomorphic changes in the Subarnarekha basin, India
@@ -138,13 +131,12 @@ cv:
         authors:
           - Gupta A.
           - Kant Y.
-          - Mitra D.
         publisher: "Atmospheric Pollution Research, 12(1)"
         releaseDate: 2021
       - title: Significance of geographical factors to the COVID-19 outbreak in India
         authors:
           - Gupta A.
-          - Banerjee S.
+
         publisher: "Modeling Earth Systems and Environment, 6(4)"
         releaseDate: 2020
       - title: Impacts of drought on vegetation assessed by vegetation indices and meteorological factors in Afghanistan
