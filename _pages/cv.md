@@ -5,7 +5,7 @@ title: CV
 nav: true
 nav_order: 4
 cv_pdf: cv_academic.pdf
-cv_format: assets/json/resume.json
+cv_format: rendercv
 description: Curriculum vitae.
 toc:
   sidebar: left
