@@ -1,8 +1,9 @@
 cv:
   name: Amitesh Gupta
   label: Doctoral candidate
-  email: amiteshgupta@iitb.ac.in, getme.amiteshg@gmail.com
-  location: Mumbai, India
+  email: amiteshgupta@iitb.ac.in
+  residence: Konnagar, India
+  current city: Mumbai, India
   image: ""
   summary: 
     - A researcher, working in geospatial sciences since last 10 years. 
@@ -11,13 +12,13 @@ cv:
     - Collaborative teamwork for project execution and research publications in various international journals. 
     - Mentored Masters students for internships and dissertation projects.
 
-  social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
+  #social_networks:
+  #  - network: X
+  #    username: AlbertEinstein
+  #  - network: GitHub
+  #    username: example
+  #  - network: LinkedIn
+  #    username: example
 
   #address:
   #  street: 2712 Broadway St
@@ -28,15 +29,15 @@ cv:
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
+      - institution: Indian Institute of Technology Bombay
+        location: Mumbai, India
+        #url: https://www.uzh.ch/
+        area: Ecohydrology
         studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
+        start_date: 2021
+        end_date: 2026
+        #score: ""
+        #courses: "Principles of Remote Sensing"
         highlights:
           - Description 1.
           - Description 2.
