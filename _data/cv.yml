@@ -2,16 +2,16 @@ cv:
   name: Amitesh Gupta
   #label: "Doctoral Candidate | Ecosystem–Climate Interactions | 6+ years in Remote Sensing Applications in Land-Water-Air Monitoring"
   email: amiteshgupta@iitb.ac.in
-  label: "Doctoral Candidate, IIT Bombay<br/>Ecosystem–Climate Interactions<br/>Remote Sensing of Land–Water–Atmosphere"
+  label: "Doctoral Candidate, IIT Bombay<br/>Ecosystem–Climate Interactions<br/>Remote Sensing of Land-Water–Air"
   residence: Konnagar, West Bengal, India
   current_city: Mumbai, India
   image: ""
   summary: |
     <ul>
-      <li>PhD researcher studying the dynamic interactions between the terrestrial ecosystem and climate conditions.</li>
-      <li>Aim is to understand the widespread and complex patterns in ecosystem response to hydroclimatic dry extremes and elucidate their changing vulnerability.</li>
-      <li>Explores plant–soil–atmosphere processes leveraging eddy-covariance flux data and examines physiological and structural changes induced by extreme dryness in the land and atmosphere integrating satellite observations, reanalysis datasets, and climate-model simulations.</li>
-      <li>Motivated to simulate Earth's carbon and nitrogen cycles using an optimality-based dynamic global vegetation model to understand impacts of extreme perturbations in the energy and water cycles.</li>
+      <li>I study the dynamic interactions between the terrestrial ecosystem and climate conditions.</li>
+      <li>I aim to comprehend the complex patterns in ecosystem response to hydroclimatic dry extremes and elucidate their changes in widespread vulnerability.</li>
+      <li>I explore plant–soil–atmosphere processes leveraging eddy-covariance flux data and examines physiological and structural changes induced by extreme dryness in the land and atmosphere integrating satellite observations, reanalysis datasets, and climate-model simulations.</li>
+      <li>I am motivated to simulate Earth's carbon and nitrogen cycles using an optimality-based dynamic global vegetation model to understand impacts of extreme perturbations in the energy and water cycles.</li>
     </ul>
 
   
@@ -20,7 +20,7 @@ cv:
     Education:
       - institution: Centre for Studies in Resource Engineering (CSRE), Indian Institute of Technology Bombay (IITB), India
         location: Mumbai, India
-        area: Ecohydrology - Terrestrial Ecosystem-Climate Interactions | Hydroclimatology - Drought Propagation Dynamics 
+        area: Ecohydrology: Terrestrial Ecosystem-Climate Interactions <br/>Hydroclimatology: Drought Propagation Dynamics 
         studyType: PhD
         start_date: 2021
         end_date: 2026
@@ -50,10 +50,10 @@ cv:
         start_date: 2021
         end_date: 2026
         highlights:
-          - "Courses Attended: Principles of Remote Sensing, Digital Image Processing of Remotely Sensed Data, <br/>Microwave Remote Sensing: Principles and Applications, Remote Sensing of Vegetation, <br/>Terrestrial Ecosystem Ecology, Eco-hydro-Climatology, Monsoons and Tropical Climate, <br/>Introduction to Climate Science, Atmosphere and Climate Change, Sustainability Principles and Practices, <br/>Machine Learning for Remote Sensing, Geospatial Predictive Modelling."
-          - "Teaching Courses Assisted: Remote Sensing of Surface Hydrology, Data Analysis Methods for Geospatial Applications"
-          - "Position of Responsibilities: PhD Coordinator (Department, 2023-24); <br/>Married Research Scholars' Nominee (Institute, 2024-25); PhD Placement Representative (Institute, 2025-26)"
-          - "Research Visits: Indiana University, Indianapolis, Indiana, US; <br/>Texas A&M University, College Station, Texas, US"
+          - "Courses Attended - <br/>Principles of Remote Sensing, <br/>Digital Image Processing of Remotely Sensed Data, <br/>Microwave Remote Sensing: Principles and Applications, <br/>Remote Sensing of Vegetation, <br/>Terrestrial Ecosystem Ecology, <br/>Eco-hydro-Climatology, <br/>Monsoons and Tropical Climate, <br/>Introduction to Climate Science, <br/>Atmosphere and Climate Change, <br/>Sustainability Principles and Practices, <br/>Machine Learning for Remote Sensing, <br/>Geospatial Predictive Modelling."
+          - "Teaching Courses Assisted - <br/>Remote Sensing of Surface Hydrology, <br/>Data Analysis Methods for Geospatial Applications"
+          - "Position of Responsibilities - <br/>PhD Coordinator (Department, 2023-24), <br/>Married Research Scholars' Nominee (Institute, 2024-25); <br/>PhD Placement Representative (Institute, 2025-26)"
+          - "Research Visits - <br/>Indiana University, Indianapolis, Indiana, US; <br/>Texas A&M University, College Station, Texas, US"
       - company: GIS Cell
         position: GIS Analyst
         location: Dehradun, India
@@ -90,13 +90,15 @@ cv:
           - Karthikeyan L.
         publisher: Environmental Research Letters (In Press)
         releaseDate: 2026
+        url: https://iopscience.iop.org/article/10.1088/1748-9326/ae860a/meta
       - title: "Investigation of wildfire risk and its mapping using a GIS-integrated AHP method: a case study over Hoshangabad Forest Division in Central India"
         authors:
           - Khan M. A.
           - Gupta A.
-
+          
         publisher: "Environment, Development and Sustainability, 28(4), 8681–8715"
         releaseDate: 2026
+        url: https://link.springer.com/article/10.1007/s10668-024-05225-w
       - title: Impact of climate trends on ecosystem productivity
         authors:
           - Gupta A.
@@ -111,81 +113,65 @@ cv:
         publisher: "Earth's Future, 12(10), e2024EF004674"
         releaseDate: 2024
         url: https://doi.org/10.1029/2024EF004674
-      - title: Space-based observation of early-summer wildfire event and its environmental proxies during 2021 in Eastern Peninsular India
-        authors:
-          - Gupta A.
-          - Roy A.
-
-        publisher: "Arabian Journal of Geosciences, 16(7), 433"
-        releaseDate: 2023
       - title: Multi-criteria decision-based geospatial mapping of flood susceptibility and temporal hydro-geomorphic changes in the Subarnarekha basin, India
         authors:
           - Das S.
           - Gupta A.
         publisher: "Geoscience Frontiers, 12(5), 101206"
         releaseDate: 2021
+        url: https://www.sciencedirect.com/science/article/pii/S1674987121000700
       - title: Geospatial analysis of September 2019 floods in the lower Gangetic plains of Bihar using multi-temporal satellites and river-gauge data
         authors:
           - Bhatt C. M.
           - Gupta A.
         publisher: "Geomatics, Natural Hazards and Risk, 12(1)"
         releaseDate: 2021
+        url: https://www.tandfonline.com/doi/full/10.1080/19475705.2020.1861113
       - title: Spatio-temporal distribution of INSAT-3D AOD-derived particulate-matter concentration over India
         authors:
           - Gupta A.
           - Kant Y.
         publisher: "Atmospheric Pollution Research, 12(1)"
         releaseDate: 2021
+        url: https://www.sciencedirect.com/science/article/pii/S1309104220302592
       - title: Significance of geographical factors to the COVID-19 outbreak in India
         authors:
           - Gupta A.
 
         publisher: "Modeling Earth Systems and Environment, 6(4)"
         releaseDate: 2020
-      - title: Impacts of drought on vegetation assessed by vegetation indices and meteorological factors in Afghanistan
-        authors:
-          - Rousta I.
-          - Gupta A.
-        publisher: "Remote Sensing, 12"
-        releaseDate: 2020
+        url: https://link.springer.com/article/10.1007/s40808-020-00838-2
       - title: Black carbon and biomass burning associated high-pollution episodes observed at Doon Valley in the foothills of the Himalayas
         authors:
           - Prabhu V.
           - Gupta A.
         publisher: "Atmospheric Research, 243, 105001"
         releaseDate: 2020
+        url: https://www.sciencedirect.com/science/article/pii/S0169809519316266
       - title: Estimating the impact of daily weather on the temporal pattern of COVID-19 outbreak in India
         authors:
           - Gupta A.
           - Pradhan B.
         publisher: "Earth Systems and Environment, 4(3)"
         releaseDate: 2020
+        url: https://link.springer.com/article/10.1007/s41748-020-00179-1
       - title: "Estimation of particulate-matter (PM2.5, PM10) concentration and its variation over urban sites in Bangladesh"
         authors:
           - Gupta A.
           - Moniruzzaman M.
         publisher: "SN Applied Sciences, 2(12)"
         releaseDate: 2020
+        url: https://link.springer.com/article/10.1007/s42452-020-03829-1
       - title: "COVID-19 lockdown — a window of opportunity to understand the role of human activity on forest-fire incidences in the Western Himalaya, India"
         authors:
           - Gupta A.
           - Bhatt C. M.
         publisher: "Current Science, 119(2)"
         releaseDate: 2020
-      - title: "Assessment of global performance on COVID-19 research during 1990–2019: an exploratory scientometric analysis"
-        authors:
-          - Jana S.
-          - Gupta A.
-        publisher: Qualitative and Quantitative Methods in Libraries
-        releaseDate: 2020
-      - title: "Exploring groundwater potential zones using MIF technique in semi-arid region: a case study of Hingoli district, Maharashtra"
-        authors:
-          - Das S.
-          - Gupta A.
-        publisher: "Spatial Information Research, 25(6)"
-        releaseDate: 2017
+        url: https://www.jstor.org/stable/27229876
 
-    "Awards & Travel Grants":
+
+    Awards:
       - title: Veena Joshi Gold Medal in Geography
         date: 2019-10-11
         awarder: Savitribai Phule Pune University
@@ -221,22 +207,19 @@ cv:
       - name: Programming
         level: 
         icon: fa-solid fa-code
-        keywords: "Python (primary), R (intermediate), Julia (intermediate)"
-        highlights:
-          - procedural pipelines and multi-core parallelisation (Dask, Delayed)
-          - object-oriented programming (Xarray, Rasterio)
+        keywords: "<br/>Languages: Python (primary) and R (intermediate); <br/>object-oriented programming (Xarray, Rasterio); <br/>procedural pipelines and multi-core parallelisation (Dask, Delayed)"
       - name: Python Libraries
         level: 
         icon: fa-brands fa-python
-        keywords: "Xarray, Rasterio, Dask, PyArrow, SciPy, NumPy, Statsmodels, Scikit-learn, Pandas, GeoPandas, Optuna, Keras, PyTorch, shutil, gc, os, json"
+        keywords: "<br/>Big Data Computing: PyArrow, Modin, Vaex <br/>Data Processing: NumPy, SciPy, Pandas, GeoPandas, Polars, Pickle, Shutil, Json <br/>Data Visualisation: Matplotlib, Seaborn, Ploty, Bokeh <br/>Statistical & ML-DL Modelling: Scikit-learn, Statsmodels, Optuna, Keras, PyTorch"
       - name: AI/ML Modelling
         level: 
         icon: fa-solid fa-microchip
-        keywords: "Machine Learning (Random Forest, XGBoost, SVM, ANN), Explanable AI (SHAP, Integrated gradients, DeepLIFT), Time-series forecasting (LSTM, ARIMA, GARCH), Numerical Weather Prediction (WRF)"
+        keywords: "<br/>Machine Learning - Random Forest, XGBoost, SVM, ANN <br/>Explanable AI - SHAP, Integrated gradients, DeepLIFT <br/>Time-series forecasting - LSTM, ARIMA, GARCH <br/>Numerical Weather Prediction - WRF"
       - name: Statistical Methods
         level: 
         icon: fa-solid fa-chart-line
-        keywords: "Information theory (normalised conditional transfer Shannon entropy; Rényi estimators of conditional mutual information); Partial Information Decomposition (BROJA-PID); KDE-based non-linear partial correlation; Copula transformation; Average Marginal Effect; multivariate linear and non-linear (MLP-based) Granger causality; PCMCI"
+        keywords: "<br/>Information theory - normalised conditional transfer Shannon entropy, Rényi estimators of conditional mutual information); Partial Information Decomposition (BROJA-PID); <br/>KDE-based non-linear partial correlation; Copula transformation; Average Marginal Effect; <br/>multivariate linear and non-linear (MLP-based) Granger causality; PCMCI"
       - name: Geospatial Software
         level: 
         icon: fa-solid fa-globe
@@ -261,23 +244,16 @@ cv:
 
     References:
       - name: Prof. Lixin Wang, Indiana University, Indianapolis, Indiana, US
-        icon: fa-solid fa-lapto
         email: lxwang@iu.edu
       - name: Prof. Ashok Mishra, Texas A&M University, College Station, Texas, US
-        icon: fa-solid fa-lapto
         email: ashok_mishra@tamu.edu
       - name: Prof. Karthikeyan Lanka, Indian Institute of Technology Bombay, Mumbai, Maharashtra, India
-        icon: fa-solid fa-thumbtack
         email: karthikl@iitb.ac.in
       - name: Prof. Avik Bhattacharya, Indian Institute of Technology Bombay, Mumbai, Maharashtra, India
-        icon: fa-solid fa-thumbtack
         email: avikbhat@iitb.ac.in
       - name: Prof. Biplab Banerjee, Indian Institute of Technology Bombay, Mumbai, Maharashtra, India
-        icon: fa-solid fa-thumbtack
         email: bbanerjee@iitb.ac.in
       - name: Prof. Jaideep Joshi, Indian Institute of Technology Bombay, Mumbai, Maharashtra, India
-        icon: fa-solid fa-thumbtack
         email: jaideep.joshi@iitb.ac.in
       - name: Dr. Arijit Roy (Scientist G), Indian Institute of Remote Sensing, Dehradun, Uttarakhand, India
-        icon: fa-solid fa-thumbtack
         email: arijitroy@iirsddn.ac.in
