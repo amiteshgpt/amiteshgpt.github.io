@@ -4,18 +4,18 @@ permalink: /miscellaneous/
 title: miscellaneous
 nav: true
 nav_order: 5
-cv_pdf: /assets/pdf/example_pdf.pdf # you can also use external links here
-cv_format: rendercv # options: rendercv, jsonresume
-description: Please find the suitable one as per requirement. 
-toc:
-  sidebar: left
+
+description: 
+
 ---
 {% include no_search_hint.liquid %}
  
 I maintain two versions of my Résumé/CV, curated as:
 
 - **Academic CV** — regarding postdoctoral positions, faculty roles, and research fellowships. 
-- **Industry Résumé** — regarding data-science and analytics, climate-services and related R&D, and environmental-consulting roles. 
+- **Industry Résumé** — regarding data-science and analytics, climate-services and related R&D, and environmental-consulting roles.
+
+Please find the suitable one as per requirement. 
 
 <div class="cv-tabs" role="tablist">
   <button class="cv-tab-btn active" onclick="showCvTab(event,'academic')" role="tab">Academic CV</button>
