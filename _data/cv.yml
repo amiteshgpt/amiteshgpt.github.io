@@ -2,7 +2,7 @@ cv:
   name: Amitesh Gupta
   #label: "Doctoral Candidate | Ecosystem–Climate Interactions | 6+ years in Remote Sensing Applications in Land-Water-Air Monitoring"
   email: amiteshgupta@iitb.ac.in
-  label: "Doctoral Candidate, IIT Bombay<br/>Ecosystem–Climate Interactions<br/>Remote Sensing of Land-Water–Air"
+  label: "Doctoral Candidate, IIT Bombay<br/>Ecosystem–Climate Interactions<br/>Remote Sensing of Land–Water–Air"
   residence: Konnagar, West Bengal, India
   current_city: Mumbai, India
   image: ""
@@ -176,14 +176,14 @@ cv:
         date: 2019-10-11
         awarder: Savitribai Phule Pune University
         summary: Secured the top rank in the entire university in the M.Sc programme.
-      - title: Early-Career Scientists Travel Support (ECSTS)
-        date: 2026-01-10
-        awarder: EGU General Assembly Council
-        summary: Awarded for oral presentation at EGU General Assembly 2026, Vienna, Austria.
       - title: IGARSS Travel Grant
         date: 2025-06-11
         awarder: IEEE Geoscience and Remote Sensing Society
         summary: Awarded for oral presentation at IGARSS 2025, Brisbane, Australia.
+      - title: Early-Career Scientists Travel Support (ECSTS)
+        date: 2026-01-10
+        awarder: EGU General Assembly Council
+        summary: Awarded for oral presentation at EGU General Assembly 2026, Vienna, Austria.
 
 
 
