@@ -2,7 +2,7 @@
 layout: page
 permalink: /Repositories/
 title: Repositories
-description: Scripts for analysis and data records used in Publications Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
+description: Scripts used for analysis and data records used in Publications.
 nav: true
 nav_order: 4
 ---
