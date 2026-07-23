@@ -10,3 +10,5 @@ description: Curriculum vitae.
 toc:
   sidebar: left
 ---
+
+{% include no_search_hint.liquid %}
