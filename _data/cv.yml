@@ -1,214 +1,295 @@
 cv:
   name: Amitesh Gupta
-  label: Doctoral candidate
+  label: "Doctoral Candidate | Ecosystem–Climate Interactions | IIT Bombay"
   email: amiteshgupta@iitb.ac.in
-  residence: Konnagar, India
-  current city: Mumbai, India
+  residence: Konnagar, West Bengal, India
+  current_city: Mumbai, India
   image: ""
-  summary: 
-    - A researcher, working in geospatial sciences since last 10 years. 
-    - Efficient in operating with multi-temporal and multi-channel satellite data using big-data pipelines in Python, data curation and classification in Google Earth Engine. 
-    - Experienced in implementing several Machine Learning and Deep Learning algorithms and familiar with data driven timeseries forecasting methods. 
-    - Collaborative teamwork for project execution and research publications in various international journals. 
-    - Mentored Masters students for internships and dissertation projects.
-
-  #social_networks:
-  #  - network: X
-  #    username: AlbertEinstein
-  #  - network: GitHub
-  #    username: example
-  #  - network: LinkedIn
-  #    username: example
-
-  #address:
-  #  street: 2712 Broadway St
-  #  city: San Francisco
-  #  region: California
-  #  postalCode: CA 94115
-  #  countryCode: US
+  summary:
+    - PhD researcher studying the dynamic interactions between the terrestrial ecosystem and climate conditions.
+    - Focus is to comprehend the widespread and complex patterns in ecosystem response to hydroclimatic dry extremes and elucidate their changing vulnerability from the past to the near future.
+    - Explores plant–soil–atmosphere processes using eddy-covariance flux data and examines physiological and structural changes induced by rapid, instantaneous, or long-duration stress in the land and atmosphere using satellite observations, reanalysis datasets, and climate-model simulations.
+    - Research bridges plant ecophysiology, ecosystem-scale carbon cycle, and information-theoretic attribution methods.
+    - Motivated to simulate Earth's carbon and nitrogen cycles using an optimality-based dynamic global vegetation model to understand the impacts of extreme perturbations in the energy and water cycles driven by changes in the climate system.
 
   sections:
+
     Education:
       - institution: Indian Institute of Technology Bombay
         location: Mumbai, India
-        #url: https://www.uzh.ch/
-        area: Ecohydrology
+        area: Ecosystem–Climate Interactions (Engineering Sciences), Centre for Studies in Resource Engineering (CSRE)
         studyType: PhD
         start_date: 2021
         end_date: 2026
-        #score: ""
-        #courses: "Principles of Remote Sensing"
         highlights:
-          - Description 1.
-          - Description 2.
-
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+          - "Thesis: Terrestrial ecosystem response to the propagation of extreme dry events from the atmosphere to the land surface."
+          - Causal influence of initial land–atmosphere and meteorological drought on propagated soil-moisture droughts.
+          - Contrasting response of terrestrial ecosystem based on distinct remote-sensing descriptors during concurrent (co-occurrence with meteorological drought) and propagated (from meteorological drought) soil-moisture droughts.
+          - Relative influence of soil moisture and vapour-pressure deficit on vegetation water content, ecosystem productivity, canopy greenness, and biomass during different stages of flash-drought evolution.
+          - Attribution of low soil moisture and high air temperature to terrestrial ecosystem physiology and energy partition during resistance and recovery from compound drought–heat extremes.
+          - Changes in the influence of soil moisture and vapour-pressure deficit on ecosystem productivity and water-use efficiency with altering concurrent dryness in the land–atmosphere.
+          - Drivers of net terrestrial ecosystem productivity during varying intensity of compound land–atmosphere dryness.
+      - institution: Indian Institute of Remote Sensing (IIRS)
+        location: Dehradun, India
+        area: Remote Sensing and GIS (Atmospheric Science specialisation)
+        studyType: M.Tech
+        start_date: 2017
+        end_date: 2019
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Dissertation: Spatiotemporal variability in satellite-derived particulate-matter concentration in India."
+      - institution: Savitribai Phule Pune University
+        location: Pune, India
+        area: Geography (Climatology specialisation)
+        studyType: M.Sc
+        start_date: 2015
+        end_date: 2017
+        highlights:
+          - "Gold Medallist. Dissertation: Temperature trend analysis over major Indian cities."
 
     Experience:
-      - company: GIS Cell 
+      - company: Indian Institute of Technology Bombay
+        position: Doctoral Researcher — Terrestrial Ecosystem–Climate Interactions
+        location: Mumbai, India
+        start_date: 2021
+        end_date: 2026
+        highlights:
+          - "Designed and executed pipelines for simultaneous processing of multi-source datasets — satellite observations (MODIS, AVHRR, MSWEP, SMAP, EnMAP, ECOSTRESS, AMSR-E/2, OCO-2/3, Landsat-5/7/8/9, Sentinel-1/2/5p), reanalysis (GLEAM, ERA5, GLDAS), climate-model simulations (CMIP6), and ground observations (FLUXNET, SAPFLUXNET) — to characterise global-scale ecosystem–climate interactions at climatological, seasonal, sub-seasonal, weekly, and daily timescales."
+          - "Built statistical models to infer causal interactions among ecosystem productivity, water-use efficiency, canopy water content, biomass, and the land–atmosphere state during the evolution of extreme dry events using Conditional Transfer Entropy, Multivariate Granger Causality, and PCMCI."
+          - "Operated multi-source datasets under parallel processing, resolving schema and memory-management issues in production-scale pipelines comparable to the demands of operational environmental monitoring."
+          - "Published three peer-reviewed articles from doctoral thesis in Q1 journals (Earth's Future, Geophysical Research Letters, Environmental Research Letters); presented at IGARSS 2025 and EGU 2025 & 2026."
+      - company: GIS Cell
         position: GIS Analyst
         location: Dehradun, India
         start_date: 2020
         end_date: 2021
-        #summary: 
-        #    -  
-        #    - 
         highlights:
-          - Conducted natural resource mapping, geodatabase preparation and potential zone identification for regional planning and development.
-          - Monitored disaster impact and forest disturbance using satellite-derived indicators, supporting field-validated geospatial assessments.
+          - Conducted natural-resource mapping, geodatabase preparation, and potential-zone identification for regional planning and development.
+          - Monitored disaster impact (landslide, wildfire, cloudburst) and forest disturbance using satellite-derived indicators, supporting field-validated geospatial assessments.
 
-      #- company: California Institute of Technology
-      #  position: Visiting Professor
-      #  location: Pasadena, California, US
-      #  start_date: 1933
-      #  end_date: 1933
-      #  highlights:
-      #    - Description 1.
-      #    - Description 2.
+    Projects:
+      - name: Burnt-area detection using SAR
+        summary: Developed a Sentinel-1 band-ratio-based classification workflow to detect burnt area amidst smoke, caused by wildfires in the Mediterranean region and tested over Canada.
+      - name: Inundated-area mapping using SAR and Optical
+        summary: Developed an image-classification workflow integrating Sentinel-1 SAR and Sentinel-2 spectral data to identify inundated / damaged areas using stacked ML in Goa's estuary.
+      - name: Plant-resilience estimation using eddy-flux observations
+        summary: Developed a pipeline based on long-term ground observations (FLUXNET) to estimate the resilience of different ecosystems from disturbances caused by drought or heatwave across the USA.
+      - name: Drought-recovery prediction using climate-model simulations
+        summary: Developed a workflow to predict the rate of drought recovery in different biomes and its changes from past to near-future using climate-model simulations.
 
-      #- company: Kaiser Wilhelm Institute for Physics
-      #  position: Director
-      #  location: Berlin, Germany
-      #  start_date: 1917
-      #  end_date: 1933
-
-      #- company: Karl-Ferdinand University
-      #  position: Professor of Theoretical Physics
-      #  location: Prague, Czechoslovakia
-      #  start_date: 1911
-      #  end_date: 1917
-
-      #- company: University of Zurich
-      #  position: Associate Professor of Theoretical Physics
-      #  location: Zurich, Switzerland
-      #  start_date: 1909
-      #  end_date: 1911
-
-    #Volunteer:
-      #- company: People's Climate March
-      #  position: Lead Organizer
-      #  location: Zurich, Switzerland
-      #  start_date: 2014-04-01
-      #  end_date: 2015-07-01
-      #  summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-      #  highlights:
-      #    - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-      #    - "Men of the year 2014 by Time magazine"
+    Publications:
+      - title: Dominant role of soil moisture regulating vegetation water content during flash-drought evolution
+        authors:
+          - Gupta A.
+          - Karthikeyan L.
+          - Mishra A.
+          - Wang L.
+        publisher: "Geophysical Research Letters, 53(8), e2025GL119366"
+        releaseDate: 2026
+        url: https://doi.org/10.1029/2025GL119366
+      - title: Intensifying compound dryness amplifies soil-moisture control on water-use efficiency and vapour-pressure-deficit control on productivity across global terrestrial ecosystems
+        authors:
+          - Gupta A.
+          - Saha S.
+          - Karthikeyan L.
+        publisher: Environmental Research Letters (In Press)
+        releaseDate: 2026
+      - title: "Investigation of wildfire risk and its mapping using a GIS-integrated AHP method: a case study over Hoshangabad Forest Division in Central India"
+        authors:
+          - Khan M. A.
+          - Gupta A.
+          - Sharma P.
+          - Roy A.
+        publisher: "Environment, Development and Sustainability, 28(4), 8681–8715"
+        releaseDate: 2026
+      - title: Impact of climate trends on ecosystem productivity
+        authors:
+          - Gupta A.
+          - Karthikeyan L.
+        publisher: "IGARSS 2025, Brisbane, Australia"
+        releaseDate: 2025
+        url: https://doi.org/10.1109/IGARSS55030.2025.11243994
+      - title: "Role of initial conditions and meteorological drought in soil-moisture drought propagation: an event-based causal analysis over South Asia"
+        authors:
+          - Gupta A.
+          - Karthikeyan L.
+        publisher: "Earth's Future, 12(10), e2024EF004674"
+        releaseDate: 2024
+        url: https://doi.org/10.1029/2024EF004674
+      - title: Space-based observation of early-summer wildfire event and its environmental proxies during 2021 in Eastern Peninsular India
+        authors:
+          - Gupta A.
+          - Roy A.
+          - Chauhan P.
+        publisher: "Arabian Journal of Geosciences, 16(7), 433"
+        releaseDate: 2023
+      - title: Multi-criteria decision-based geospatial mapping of flood susceptibility and temporal hydro-geomorphic changes in the Subarnarekha basin, India
+        authors:
+          - Das S.
+          - Gupta A.
+        publisher: "Geoscience Frontiers, 12(5), 101206"
+        releaseDate: 2021
+      - title: Geospatial analysis of September 2019 floods in the lower Gangetic plains of Bihar using multi-temporal satellites and river-gauge data
+        authors:
+          - Bhatt C. M.
+          - Gupta A.
+        publisher: "Geomatics, Natural Hazards and Risk, 12(1)"
+        releaseDate: 2021
+      - title: Spatio-temporal distribution of INSAT-3D AOD-derived particulate-matter concentration over India
+        authors:
+          - Gupta A.
+          - Kant Y.
+          - Mitra D.
+        publisher: "Atmospheric Pollution Research, 12(1)"
+        releaseDate: 2021
+      - title: Significance of geographical factors to the COVID-19 outbreak in India
+        authors:
+          - Gupta A.
+          - Banerjee S.
+        publisher: "Modeling Earth Systems and Environment, 6(4)"
+        releaseDate: 2020
+      - title: Impacts of drought on vegetation assessed by vegetation indices and meteorological factors in Afghanistan
+        authors:
+          - Rousta I.
+          - Gupta A.
+        publisher: "Remote Sensing, 12"
+        releaseDate: 2020
+      - title: Black carbon and biomass burning associated high-pollution episodes observed at Doon Valley in the foothills of the Himalayas
+        authors:
+          - Prabhu V.
+          - Gupta A.
+        publisher: "Atmospheric Research, 243, 105001"
+        releaseDate: 2020
+      - title: Estimating the impact of daily weather on the temporal pattern of COVID-19 outbreak in India
+        authors:
+          - Gupta A.
+          - Pradhan B.
+        publisher: "Earth Systems and Environment, 4(3)"
+        releaseDate: 2020
+      - title: "Estimation of particulate-matter (PM2.5, PM10) concentration and its variation over urban sites in Bangladesh"
+        authors:
+          - Gupta A.
+          - Moniruzzaman M.
+        publisher: "SN Applied Sciences, 2(12)"
+        releaseDate: 2020
+      - title: "COVID-19 lockdown — a window of opportunity to understand the role of human activity on forest-fire incidences in the Western Himalaya, India"
+        authors:
+          - Gupta A.
+          - Bhatt C. M.
+        publisher: "Current Science, 119(2)"
+        releaseDate: 2020
+      - title: "Assessment of global performance on COVID-19 research during 1990–2019: an exploratory scientometric analysis"
+        authors:
+          - Jana S.
+          - Gupta A.
+        publisher: Qualitative and Quantitative Methods in Libraries
+        releaseDate: 2020
+      - title: "Exploring groundwater potential zones using MIF technique in semi-arid region: a case study of Hingoli district, Maharashtra"
+        authors:
+          - Das S.
+          - Gupta A.
+        publisher: "Spatial Information Research, 25(6)"
+        releaseDate: 2017
 
     Awards:
       - title: Veena Joshi Gold Medal in Geography
-       # authors:
-       #   - "Savitribai Phule Pune University"
         date: 2019-10-11
         awarder: Savitribai Phule Pune University
-        #url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: Secured the top rank in the entire university during Masters (M.Sc) program. 
+        summary: Secured the top rank in the entire university during the Masters (M.Sc) programme.
 
-      #- title: Max Planck Medal
-      #  authors:
-      #    - "German Physical Society"
-      #  date: 2029
-      #  awarder: German Physical Society
-      #  summary: Awarded for outstanding scientific achievement
-    
     Travel Grants:
-      - title: Early Career Scientists Travel Support (ECSTS) 
-       # authors:
-       #   - "...."
+      - title: Early-Career Scientists Travel Support (ECSTS)
         date: 2026-01-10
         awarder: EGU General Assembly Council
-        #url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        #summary: Secured the top rank in the entire university during Masters (M.Sc) program. 
-
-      - title: IGARSS travel support
-       # authors:
-       #   - "..."
+        summary: Awarded for oral presentation at EGU General Assembly 2026, Vienna, Austria.
+      - title: IGARSS Travel Grant
         date: 2025-06-11
-        awarder: IEEE
-        #url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        #summary: Secured the top rank in the entire university during Masters (M.Sc) program.
+        awarder: IEEE Geoscience and Remote Sensing Society
+        summary: Awarded for paper presentation at IGARSS 2025, Brisbane, Australia.
 
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
-
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
-
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+    Research Visits:
+      - name: Indiana University, Indianapolis, USA
+        date: 2026
+        summary: Research collaborations (terrestrial ecosystem–climate interactions).
+      - name: Texas A&M University, Texas, USA
+        date: 2026
+        summary: Research collaborations (compound event dynamics).
 
     Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: Programming
+        level: Advanced
+        icon: fa-solid fa-code
+        keywords: "Python (primary), R (intermediate), Julia; procedural pipelines and multi-core parallelisation (Dask, Delayed); object-oriented programming (Xarray, Rasterio)"
+      - name: Python Libraries
+        level: Advanced
+        icon: fa-brands fa-python
+        keywords: "Xarray, Rasterio, Dask, PyArrow, SciPy, NumPy, Statsmodels, Scikit-learn, Pandas, GeoPandas, Optuna, Keras, PyTorch, shutil, gc, os, json"
+      - name: Modelling Frameworks
+        level: Advanced
+        icon: fa-solid fa-microchip
+        keywords: "Machine Learning (Random Forest, XGBoost, SVM, ANN), Deep Learning, Time-series forecasting (LSTM, ARIMA, GARCH), Numerical Weather Prediction (WRF)"
+      - name: Statistical Methods
+        level: Advanced
+        icon: fa-solid fa-chart-line
+        keywords: "Information theory (normalised conditional transfer Shannon entropy; Rényi and KSG estimators of conditional mutual information); Partial Information Decomposition (BROJA-PID); KDE-based non-linear partial correlation; Copula transformation; Average Marginal Effect; multivariate linear and non-linear (MLP-based) Granger causality; PCMCI"
+      - name: Geospatial Software
+        level: Advanced
+        icon: fa-solid fa-globe
+        keywords: "Google Earth Engine, QGIS, ArcGIS, SNAP, PolSARPro, GrADS, Panoply, ERDAS Imagine, ENVI"
+      - name: Satellite Datasets
+        level: Advanced
+        icon: fa-solid fa-satellite
+        keywords: "MODIS, VIIRS, AVHRR, AMSR-E/2, SMAP, OCO-2/3, ECOSTRESS, Landsat-5/7/8/9, Sentinel-1/2/5p, EnMAP, OMI, AIRS"
+      - name: Climate Datasets
+        level: Advanced
+        icon: fa-solid fa-cloud
+        keywords: "ERA5, GLEAM, CMIP6, GPCC, CRU, HadCRUT, MSWEP, GISTEMP, IMERG, PERSIANN-CCS, GLDAS"
+
+    Research Interests:
+      - name: Carbon Cycling
+        icon: fa-solid fa-leaf
+        keywords: "Ecosystem productivity (GPP, NEP); energy partitioning (T/ET); coupling among carbon–water–energy fluxes under drought stress; ecosystem resistance and resilience; remote-sensing-based vegetation descriptors (GPP, LAI, SIF, VOD, NIRv)"
+      - name: Hydro-climatology
+        icon: fa-solid fa-droplet
+        keywords: "Drought propagation dynamics; compound drought and heatwaves; flash drought; wildfires; long-term climate variability using reanalysis and climate-model simulations"
+      - name: Plant Ecophysiology
+        icon: fa-solid fa-seedling
+        keywords: "Abiotic stress (combined or individual hot/dry conditions); legacy effects; phenological shifts (early fluorescence, leaf senescence); carbon allocation and water uptake; stomatal conductance theory (FvCB)"
+      - name: Statistical Attribution
+        icon: fa-solid fa-diagram-project
+        keywords: "Information-theoretic causality; Partial Information Decomposition; multivariate Granger causality; PCMCI"
+
+    Review Experience:
+      - name: Recognised Reviewer
+        icon: fa-solid fa-file-lines
+        summary: "Reviewed 90+ manuscripts across 30+ journals, including Nature Communications, Geophysical Research Letters, AGU Advances, Earth's Future, Journal of Environmental Management, Journal of Arid Environments, Remote Sensing Applications: Society and Environment, International Journal of Disaster Risk Reduction, Hydrological Sciences, Science of the Total Environment, Water, Remote Sensing, and Earth Systems and Environment."
 
     Languages:
-      - name: German
-        summary: "Native speaker"
-
       - name: English
+        summary: "Professional / Fluent"
+      - name: Hindi
         summary: "Fluent"
-
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+      - name: Bengali
+        summary: "Native"
 
     References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
+      - name: Prof. Lixin Wang, Indiana University, Indianapolis, Indiana, US
+        icon: fa-solid fa-lapto
+        email: lxwang@iu.edu
+      - name: Prof. Ashok Mishra, Texas A&M University, College Station, Texas, US
+        icon: fa-solid fa-lapto
+        email: ashok_mishra@tamu.edu
+      - name: Prof. Karthikeyan Lanka
         icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+        email: karthikl@iitb.ac.in
+      - name: Prof. Avik Bhattacharya
+        icon: fa-solid fa-thumbtack
+        email: avikbhat@iitb.ac.in
+      - name: Prof. Biplab Banerjee
+        icon: fa-solid fa-thumbtack
+        email: bbanerjee@iitb.ac.in
+      - name: Prof. Jaideep Joshi
+        icon: fa-solid fa-thumbtack
+        email: jaideep.joshi@iitb.ac.in
+      - name: Dr. Arijit Roy (Scientist G)
+        icon: fa-solid fa-thumbtack
+        email: arijitroy@iirsddn.ac.in
